@@ -17,3 +17,5 @@ Collection of Python and Excel projects focused on railway operations, ticket sa
 - Excel
 - Power Query
 - SQL
+  
+Several workflows were inspired by real-world transportation and railway operational challenges.
