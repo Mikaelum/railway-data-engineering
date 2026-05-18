@@ -1,5 +1,3 @@
-# railway-data-engineering
-
 # Railway Data Engineering
 
 Collection of Python and Excel projects focused on railway operations, ticket sales analytics, ETL automation, forecasting, and reporting workflows.
